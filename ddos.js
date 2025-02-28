@@ -1,3 +1,8 @@
+// apa liat-liat?
+// mau recode? serah recode aja, free
+// kasih credit gw kalo mau recode, hargai yang bikin!
+
+
 const axios = require('axios');
 const fs = require('fs');
 const SocksProxyAgent = require('socks-proxy-agent');
